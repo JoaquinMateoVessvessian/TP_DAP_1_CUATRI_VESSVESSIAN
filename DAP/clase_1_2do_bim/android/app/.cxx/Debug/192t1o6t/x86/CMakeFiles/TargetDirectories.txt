@@ -1,0 +1,2 @@
+C:/Users/PC/Desktop/DAP/clase_1_2do_bim/android/app/.cxx/Debug/192t1o6t/x86/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/DAP/clase_1_2do_bim/android/app/.cxx/Debug/192t1o6t/x86/CMakeFiles/rebuild_cache.dir
